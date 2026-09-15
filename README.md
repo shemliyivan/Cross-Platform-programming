@@ -18,3 +18,5 @@ CrossApp/
 RID           Режим           Розмір publish Потрібен runtime
 linux-x64 self-contained      ~80 МБ         ні
 linux-x64 framework-dependent ~144 КБ        так (.NET 10)
+## data/sample.csv
+Даний файл містить 10 коретних рядків та 3 - навмисно пошкоджені - це тестові дані
